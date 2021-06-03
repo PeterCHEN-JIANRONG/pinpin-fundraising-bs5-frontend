@@ -1,0 +1,6 @@
+
+# ignore file
+css/*.map
+
+# ignore forder
+scss/bootstrap
